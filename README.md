@@ -3,6 +3,7 @@ Sejam bem vindos ao meu GitHub!
 
 Apaixonada por tecnologia, hoje me dedico a aprender mais sobre esse mundo.
 <span style="color:blue">Atualmente sou aluna da trilha Full Stack do Programa Desenvolve do Grupo Boticário com a Alura.</span>
+Estou usando o GitHub para compartilhar os projetos do curso e também meus projetos pessoais!
 
 ## 🙋‍♀️ Let's connect!
 

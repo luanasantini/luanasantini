@@ -4,10 +4,10 @@ Sejam bem vindos ao meu **GitHub**!
 
  - Ela/dela.
    
- Apaixonada por tecnologia, hoje tenho me dedicado a aprender mais sobre o mundo Javascript. Atualmente sou aluna da trilha **Full Stack** do Programa Desenvolve do *Grupo Boticári*o com a Alura.
+ - Apaixonada por tecnologia, hoje tenho me dedicado a aprender mais sobre o mundo Javascript. Atualmente sou aluna da trilha **Full Stack** do Programa Desenvolve do *Grupo Boticári*o com a Alura.
 
 
- Estou usando o GitHub para compartilhar os projetos do curso e também meus projetos pessoais! Espero que gostem!
+- Estou usando o GitHub para compartilhar os projetos do curso e também meus projetos pessoais! Espero que gostem!
 
 
 ## 🙋‍♀️ Let's connect!

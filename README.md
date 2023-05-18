@@ -1,9 +1,14 @@
 ## Oii, meu nome é Luana Santini! 👋
-Sejam bem vindos ao meu GitHub!
 
-Apaixonada por tecnologia, hoje me dedico a aprender mais sobre esse mundo.
-<span style="color:blue">Atualmente sou aluna da trilha Full Stack do Programa Desenvolve do Grupo Boticário com a Alura.</span>
-Estou usando o GitHub para compartilhar os projetos do curso e também meus projetos pessoais!
+Sejam bem vindos ao meu **GitHub**!
+
+ - Ela/dela.
+   
+ Apaixonada por tecnologia, hoje tenho me dedicado a aprender mais sobre o mundo Javascript. Atualmente sou aluna da trilha **Full Stack** do Programa Desenvolve do *Grupo Boticári*o com a Alura.
+
+
+ Estou usando o GitHub para compartilhar os projetos do curso e também meus projetos pessoais! Espero que gostem!
+
 
 ## 🙋‍♀️ Let's connect!
 
